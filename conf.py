@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'teste'
-copyright = '2020, Joabe oliveira'
-author = 'Joabe oliveira'
+project = 'Joabe Oliveira'
+copyright = '2020, Joabe Oliveira'
+author = 'Joabe Oliveira'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
