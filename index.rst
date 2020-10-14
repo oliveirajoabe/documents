@@ -1,10 +1,10 @@
-.. Joabe Oliveira documentation master file, created by
-   sphinx-quickstart on Wed Oct 14 16:27:00 2020.
+.. documentos documentation master file, created by
+   sphinx-quickstart on Wed Oct 14 17:05:42 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Joabe Oliveira's documentation!
-==========================================
+Welcome to documentos's documentation!
+======================================
 
 .. toctree::
    :maxdepth: 2
