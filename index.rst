@@ -1,10 +1,10 @@
-.. documentos documentation master file, created by
-   sphinx-quickstart on Wed Oct 14 17:05:42 2020.
+.. documents documentation master file, created by
+   sphinx-quickstart on Wed Oct 14 17:10:23 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to documentos's documentation!
-======================================
+Welcome to documents's documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2
