@@ -1,3 +1,7 @@
-site_name: My Docs
-#theme: readthedocs
+site_name: Documentação para Teste
+theme: readthedocs
+Summary: A brief description of my document.
+Authors: Joabe Oliveira
+
+Date:    Outubro 15, 2020
 
