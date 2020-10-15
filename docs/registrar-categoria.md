@@ -6,9 +6,9 @@
  `POST` - `/cadastro-categoria` - Rota para cadastrar categoria
 
     {
-        "nomeCategoria": "nome", # Nome da categoria do produto
-        "descricao": "descrição do produto", # Descricao do produto
-        "categoriaProduto": "categoria", # Categoria do produto
+        "nomeCategoria": "nome",
+        "descricao": "descrição do produto",
+        "categoriaProduto": "categoria", 
     }
 
 ## Exemplo para listar categorias dos produtos:
